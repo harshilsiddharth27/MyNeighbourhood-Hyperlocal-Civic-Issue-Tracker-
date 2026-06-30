@@ -1,0 +1,6 @@
+{
+  "name": "MyNeighbourhood",
+  "description": "A hyperlocal problem-solving platform that categorizes and assesses civic issues using Gemini AI, with visual tracking and local community reporting.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
